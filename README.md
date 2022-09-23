@@ -10,5 +10,6 @@
 - Data: retraining-data/Number-plates
 
 # Tasks
-- Try with docker
+- Include run tracking in callbacks
 - Fix port issue
+- Try with docker
