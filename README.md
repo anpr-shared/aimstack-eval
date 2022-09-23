@@ -11,5 +11,5 @@
 
 # Tasks
 - Include run tracking in callbacks
-- Fix port issue
-- Try with docker
+- Expose ports for Aim server and UI
+- Try with Docker
